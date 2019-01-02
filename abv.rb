@@ -1,8 +1,8 @@
 require 'yaml'
 require 'parseconfig'
 
-vault_file_path = ARGV[0]
-vault_name = ARGV[1]
+vault_name = ARGV[0]
+vault_file_path = ARGV[1]
 
 abv_config_path = "#{ENV['HOME']}/.abv.cfg"
 abv_config_params = ParseConfig.new(abv_config_path).params
