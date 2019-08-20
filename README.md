@@ -30,7 +30,7 @@ I like aliasing this to `agrep`, because that's probably a better name than "ABV
 agrep vault_variable_name path_to/vault.yml
 ```
 
-## Example:
+## Example
 
 - `ansible.cfg` contains:
 ```
