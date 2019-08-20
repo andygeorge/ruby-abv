@@ -37,7 +37,7 @@ agrep vault_variable_name path_to/vault.yml
 vault_identity_list = example_identity@~/.vault_password_example
 ```
 
-- `~/.vault_password_example contains:
+- `~/.vault_password_example` contains:
 ```
 PasswordsRFun
 ```
